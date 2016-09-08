@@ -1,0 +1,19 @@
+{
+  "name": "code_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "mocha"
+  },
+  "author": "Raluca Stan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "*"
+  }
+}

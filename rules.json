@@ -1,0 +1,18 @@
+{
+	"rules": [{
+		"id": 1,
+		"body": "function rule(obj) { return obj.value < 1}",
+		"true_id": 2,
+		"false_id": 2
+	}, {
+		"id": 2,
+		"body": "function rule(obj) { return obj.value > 50}",
+		"true_id": 3,
+		"false_id": 1
+	}, {
+		"id": 3,
+		"body": "function rule(obj) {  return obj.value > 0}",
+		"true_id": null,
+		"false_id": null
+	}]
+}
