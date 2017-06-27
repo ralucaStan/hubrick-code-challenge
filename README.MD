@@ -1,4 +1,4 @@
-#Code challenge
+# Code challenge
 
 My solution for [Hubrick code challenge] (https://github.com/hubrick/frontend-code-challenge).
 Did not understand the specs regarding the cyclicity. On request I can update the code.
@@ -7,12 +7,12 @@ Did not understand the specs regarding the cyclicity. On request I can update th
 
 Run `npm init`
 
-##Usage
+## Usage
 
 Run `npm start`
 
 
-##Test
+## Test
 
 I'm just testing a function.
 
